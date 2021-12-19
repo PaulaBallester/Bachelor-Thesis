@@ -1,2 +1,2 @@
 # Bachelor-Thesis
-Matlab code used to implement the scheme presented in my Bachelor's Thesis and test the performance of the system. 
+Matlab code used to implement and test the performance of the MIMO System presented in my Bachelor's Thesis. 
